@@ -1,13 +1,13 @@
 p {
-  color: red
+  color: blue
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 55px;
 }
 
 #server-side-intro {
-color : blue;
+color : red;
 }
 
 .my-brand {
